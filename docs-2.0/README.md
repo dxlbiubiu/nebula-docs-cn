@@ -31,7 +31,7 @@ NebulaGraph 是一款开源的、分布式的、易扩展的原生图数据库�
 ## 最新发布
 
 - [NebulaGraph 社区版 {{ nebula.release }}](20.appendix/release-notes/nebula-comm-release-note.md)
-<!-- - [NebulaGraph 企业版 {{ nebula.release }}](20.appendix/release-notes/nebula-ent-release-note.md)。 -->
+- [NebulaGraph 企业版 {{ nebula.release }}](20.appendix/release-notes/nebula-ent-release-note.md)。 -->
 - [NebulaGraph Studio](20.appendix/release-notes/studio-release-note.md)
 - [NebulaGraph Dashboard](20.appendix/release-notes/dashboard-comm-release-note.md)
 - [NebulaGraph Dashboard 企业版](20.appendix/release-notes/dashboard-ent-release-note.md)
